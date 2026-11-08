@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # ⚡ Muhammad Junaid Khan
@@ -18,6 +17,7 @@
   │   and high-concurrency architectures that drive enterprise scale."     │
   └────────────────────────────────────────────────────────────────────────┘
 ```
+> ### ❝ Building mission-critical backend systems, zero-downtime migrations, and high-concurrency architectures that drive enterprise scale. ❞
 
 </div>
 
@@ -119,6 +119,9 @@ I am an **Enterprise Backend Architect** and **Founder & CEO of [ITSTHS PVT LTD]
   │  idempotent API design  │     │ zero revenue disruption │     │ self-hosted n8n engine  │
   └─────────────────────────┘     └─────────────────────────┘     └─────────────────────────┘
 ```
+| 01. Scalable Backends | 02. Zero-Downtime Modernization | 03. Agentic Workflows |
+| :--- | :--- | :--- |
+| • High concurrency & low latency<br>• Distributed caching (Redis/Memcached)<br>• Idempotent REST API architecture<br>• Multi-tenant database partitioning | • Automated AST upgrades (Rector)<br>• Dual-container staging (Docker)<br>• Zero revenue disruption<br>• PHPStan level 8 type safety | • Production LLM reasoning loops<br>• Multi-agent automated pipelines<br>• Self-hosted n8n engine<br>• Webhook & queue orchestration |
 
 1. **High Concurrency & Low Latency**: Designing database-sharded, event-driven backends capable of serving thousands of simultaneous requests under strict sub-100ms latency budgets.
 2. **Enterprise Multi-Tenancy**: Building isolated tenant architecture patterns (database-per-tenant, schema-per-tenant, and row-level tenant partitioning) with strict tenant leakage prevention.
@@ -153,4 +156,4 @@ Whether you are looking to scale your engineering backend, modernize an enterpri
 <div align="center">
   <sub>Built with engineering discipline by Muhammad Junaid Khan. Copyright &copy; 2026 ITSTHS PVT LTD. All rights reserved.</sub>
 </div>
-```
+
