@@ -11,12 +11,6 @@
   <a href="mailto:ask@muhammadjunaidkhan.com"><img src="https://img.shields.io/badge/Email-ask@muhammadjunaidkhan.com-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-```
-  ┌────────────────────────────────────────────────────────────────────────┐
-  │  "Building mission-critical backend systems, zero-downtime migrations, │
-  │   and high-concurrency architectures that drive enterprise scale."     │
-  └────────────────────────────────────────────────────────────────────────┘
-```
 > ### ❝ Building mission-critical backend systems, zero-downtime migrations, and high-concurrency architectures that drive enterprise scale. ❞
 
 </div>
@@ -38,12 +32,13 @@ I am an **Enterprise Backend Architect** and **Founder & CEO of [ITSTHS PVT LTD]
 ### 📊 Real-Time GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadjunaidkhan23&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=false" width="48%" alt="Muhammad Junaid Khan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadjunaidkhan23&theme=tokyonight&hide_border=false" width="48%" alt="Muhammad Junaid Khan's Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadjunaidkhan23&layout=compact&theme=tokyonight&hide_border=false" width="48%" alt="Top Languages" />
+  <p align="center">
+    <img src="https://img.shields.io/badge/Contributions-338+_in_Past_Year-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+    <img src="https://img.shields.io/badge/Enterprise_Experience-10+_Years-10b981?style=for-the-badge&logo=buffer&logoColor=white" alt="Experience" />
+    <img src="https://img.shields.io/badge/Production_Systems-30+_Deployed-f59e0b?style=for-the-badge&logo=serverfault&logoColor=white" alt="Systems" />
+    <img src="https://img.shields.io/badge/GitHub-Developer_Program_Member-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="Developer Program" />
+  </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadjunaidkhan23&theme=tokyonight&hide_border=false" width="495px" alt="Muhammad Junaid Khan's Streak Stats" />
 </div>
 
 ---
@@ -111,14 +106,6 @@ I am an **Enterprise Backend Architect** and **Founder & CEO of [ITSTHS PVT LTD]
 
 ### 🏛️ Architecture Pillars & Engineering Practice
 
-```
-  ┌─────────────────────────┐     ┌─────────────────────────┐     ┌─────────────────────────┐
-  │  01. Scalable Backends  │     │ 02. Zero-Downtime Cuts  │     │  03. Agentic Workflows  │
-  │  High concurrency,      │ ──> │ Automated AST upgrades, │ ──> │ LLM reasoning loops,    │
-  │  distributed caching,   │     │ dual staging containers,│     │ multi-agent pipelines,  │
-  │  idempotent API design  │     │ zero revenue disruption │     │ self-hosted n8n engine  │
-  └─────────────────────────┘     └─────────────────────────┘     └─────────────────────────┘
-```
 | 01. Scalable Backends | 02. Zero-Downtime Modernization | 03. Agentic Workflows |
 | :--- | :--- | :--- |
 | • High concurrency & low latency<br>• Distributed caching (Redis/Memcached)<br>• Idempotent REST API architecture<br>• Multi-tenant database partitioning | • Automated AST upgrades (Rector)<br>• Dual-container staging (Docker)<br>• Zero revenue disruption<br>• PHPStan level 8 type safety | • Production LLM reasoning loops<br>• Multi-agent automated pipelines<br>• Self-hosted n8n engine<br>• Webhook & queue orchestration |
@@ -156,4 +143,3 @@ Whether you are looking to scale your engineering backend, modernize an enterpri
 <div align="center">
   <sub>Built with engineering discipline by Muhammad Junaid Khan. Copyright &copy; 2026 ITSTHS PVT LTD. All rights reserved.</sub>
 </div>
-
